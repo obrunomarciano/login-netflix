@@ -1,8 +1,15 @@
-Projeto para estudo: tela de Login da Netflix.
-Para desenvolver esse projeto foi utilizado HTML e CSS.
+# Projeto: Login da Netflix.
+
+Projeto realizado para estudo.
+
+## Tecnologias:
+- HTML
+- CSS
+
+### Amostra 👇
+
+https://github.com/obrunomarciano/login-netflix/assets/122938679/5657e30e-41b2-444b-8b97-924c3c66e41f
 
 
-<b></b>
-![image](https://github.com/obrunomarciano/login-netflix/assets/122938679/37ca7024-d795-4dfc-898a-4b128b53c480)
 
-By: Bruno Marciano
+
